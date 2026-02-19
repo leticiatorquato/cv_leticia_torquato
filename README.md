@@ -4,6 +4,7 @@ Seja bem-vindo(a)! 👋
 Este repositório contém meu currículo profissional em formato PDF.
 
 📄 **Baixe meu currículo aqui:**  
+
 [Clique para baixar](./cv_leticia_torquato.pdf)
 
 ---
